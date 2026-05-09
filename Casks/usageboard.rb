@@ -1,8 +1,9 @@
 cask "usageboard" do
-  version "0.1.20"
-  sha256 "f3c4c98408913bad334ca779d720e63568f151ac699d5e36d74e56071b0ff6d6"
+  version "0.1.21"
+  sha256 "a5fbea87f3121ff4767b15c28ee3bd7c0b276cbc2ef2a56264a4588631b1540c"
 
-  url "https://may.ltd/usageboard/UsageBoard-#{version}.zip"
+  url "https://may.ltd/usageboard/UsageBoard-#{version}.zip",
+      verified: "may.ltd/usageboard/"
   name "UsageBoard"
   desc "macOS menu bar app for aggregating API usage quotas"
   homepage "https://github.com/marsmay/UsageBoard"

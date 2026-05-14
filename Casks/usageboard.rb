@@ -1,8 +1,8 @@
 class Usageboard < Formula
   desc "macOS menu bar app for API usage tracking"
   homepage "https://github.com/marsmay/UsageBoard"
-  version "0.1.22"
-  sha256 "f5b1c0ca2106179330ceeb22d3e5ac2d7e1d66ee3042c8869fabd5a58111e6d4"
+  version "0.1.23"
+  sha256 "3413b8d8ed0f06db915284e4aaabaedfca9fbfaca2f857f17b849084f7083f5c"
 
   url "https://may.ltd/usageboard/UsageBoard-#{version}.zip"
 

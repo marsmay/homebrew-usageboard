@@ -1,6 +1,6 @@
 cask "usageboard" do
-  version "0.1.35"
-  sha256 "0df7dd28df934363d0dcc00d020b8a27f9108ef39b44ba2b0ebfc51d956cb4f1"
+  version "0.1.36"
+  sha256 "6d7f3b5ab5fd93fcfccd65d67ad225ee761e25bbde57b11eba51a2594bdaf269"
 
   url "https://may.ltd/usageboard/UsageBoard-#{version}.zip",
       verified: "may.ltd/usageboard/"

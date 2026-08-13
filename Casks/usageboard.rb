@@ -5,7 +5,7 @@ cask "usageboard" do
   url "https://may.ltd/usageboard/UsageBoard-#{version}.zip",
       verified: "may.ltd/usageboard/"
   name "UsageBoard"
-  desc "macOS menu bar app for API usage tracking"
+  desc "Menu bar app for API usage tracking"
   homepage "https://github.com/marsmay/UsageBoard"
 
   depends_on macos: :ventura

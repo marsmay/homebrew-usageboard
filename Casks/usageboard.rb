@@ -8,7 +8,7 @@ cask "usageboard" do
   desc "macOS menu bar app for API usage tracking"
   homepage "https://github.com/marsmay/UsageBoard"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "UsageBoard.app"
 
